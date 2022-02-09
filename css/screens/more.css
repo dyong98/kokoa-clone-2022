@@ -29,9 +29,7 @@
   align-items: center;
   margin-bottom: 10px;
 }
-.more-suggestion__icon-image {
+.more-suggestion__icon-image i {
   font-size: 36px;
   color: white;
-}
-.more-suggestions__icon-text {
 }
